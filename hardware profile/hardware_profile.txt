@@ -1,0 +1,26 @@
+The following hardware profile is for the Samsung Galaxy A03 Core:
+
+	The Samsung Galaxy A03 Core is the specific device used for the 	
+cotton plant disease detection mobile application prototype. Along with
+the hardware profile xml file, here are the important specs for this profile:
+
+Display: 
+Type		PLS LCD
+Size		6.5 inches, 102.0 cm2 (~81.8% screen-to-body ratio)
+Resolution	720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+
+Platform:
+OS		Android 11 (Go edition)
+Chipset	Unisoc SC9863A (28nm)
+CPU		Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)
+GPU		IMG8322
+
+Memory: 
+Card slot	microSDXC (dedicated slot)
+Internal	32GB 2GB RAM
+ 		eMMC 5.1
+
+Main Camera:
+Single	8 MP, f/2.0, AF
+Features	LED flash
+Video		1080p@30fps
