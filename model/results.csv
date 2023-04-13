@@ -1,9 +1,9 @@
 Filename,                             Predictions
 diseased cotton leaf\dis_leaf (124).jpg,diseased cotton leaf
 diseased cotton leaf\dis_leaf (153)_iaip.jpg,diseased cotton leaf
-diseased cotton leaf\dis_leaf (173)_iaip.jpg,diseased cotton leaf
+diseased cotton leaf\dis_leaf (173)_iaip.jpg,diseased cotton plant
 diseased cotton leaf\dis_leaf (175)_iaip.jpg,diseased cotton leaf
-diseased cotton leaf\dis_leaf (183)_iaip.jpg,diseased cotton leaf
+diseased cotton leaf\dis_leaf (183)_iaip.jpg,diseased cotton plant
 diseased cotton leaf\dis_leaf (193)_iaip.jpg,diseased cotton leaf
 diseased cotton leaf\dis_leaf (194)_iaip.jpg,diseased cotton leaf
 diseased cotton leaf\dis_leaf (204)_iaip.jpg,diseased cotton plant
@@ -13,9 +13,9 @@ diseased cotton leaf\dis_leaf (219)_iaip.jpg,diseased cotton leaf
 diseased cotton leaf\dis_leaf (224)_iaip.jpg,diseased cotton leaf
 diseased cotton leaf\dis_leaf (231)_iaip.jpg,diseased cotton leaf
 diseased cotton leaf\dis_leaf (248).jpg,diseased cotton leaf
-diseased cotton leaf\dis_leaf (258)_iaip.jpg,diseased cotton leaf
-diseased cotton leaf\dis_leaf (260)_iaip.jpg,diseased cotton leaf
-diseased cotton leaf\dis_leaf (265)_iaip.jpg,diseased cotton leaf
+diseased cotton leaf\dis_leaf (258)_iaip.jpg,diseased cotton plant
+diseased cotton leaf\dis_leaf (260)_iaip.jpg,fresh cotton leaf
+diseased cotton leaf\dis_leaf (265)_iaip.jpg,diseased cotton plant
 diseased cotton leaf\dis_leaf (273)_iaip.jpg,diseased cotton leaf
 diseased cotton leaf\dis_leaf (277)_iaip.jpg,diseased cotton leaf
 diseased cotton leaf\dis_leaf (322).jpg,diseased cotton leaf
@@ -52,13 +52,13 @@ diseased cotton plant\dd (862)_iaip.jpg,diseased cotton plant
 diseased cotton plant\dd (885)_iaip.jpg,diseased cotton plant
 diseased cotton plant\dd (893)_iaip.jpg,diseased cotton plant
 diseased cotton plant\dd (895)_iaip.jpg,diseased cotton plant
-fresh cotton leaf\d (122)_iaip.jpg,fresh cotton leaf
+fresh cotton leaf\d (122)_iaip.jpg,diseased cotton plant
 fresh cotton leaf\d (133)_iaip.jpg,fresh cotton leaf
 fresh cotton leaf\d (198)_iaip.jpg,fresh cotton leaf
 fresh cotton leaf\d (220)_iaip.jpg,fresh cotton leaf
 fresh cotton leaf\d (282)_iaip.jpg,fresh cotton leaf
 fresh cotton leaf\d (283)_iaip.jpg,fresh cotton leaf
-fresh cotton leaf\d (310)_iaip.jpg,fresh cotton leaf
+fresh cotton leaf\d (310)_iaip.jpg,fresh cotton plant
 fresh cotton leaf\d (329)_iaip.jpg,fresh cotton leaf
 fresh cotton leaf\d (341).jpg,fresh cotton leaf
 fresh cotton leaf\d (358)_iaip.jpg,fresh cotton leaf
@@ -66,9 +66,9 @@ fresh cotton leaf\d (359)_iaip.jpg,fresh cotton leaf
 fresh cotton leaf\d (366).jpg,fresh cotton plant
 fresh cotton leaf\d (378).jpg,fresh cotton leaf
 fresh cotton leaf\d (384).jpg,fresh cotton leaf
-fresh cotton leaf\d (396).jpg,fresh cotton leaf
+fresh cotton leaf\d (396).jpg,diseased cotton leaf
 fresh cotton leaf\d (40)_iaip - Copy.jpg,fresh cotton leaf
-fresh cotton leaf\d (61)_iaip - Copy.jpg,fresh cotton leaf
+fresh cotton leaf\d (61)_iaip - Copy.jpg,fresh cotton plant
 fresh cotton leaf\d (63)_iaip - Copy.jpg,fresh cotton leaf
 fresh cotton leaf\d (63)_iaip.jpg,fresh cotton leaf
 fresh cotton leaf\d (67)_iaip.jpg,fresh cotton leaf
@@ -78,26 +78,26 @@ fresh cotton leaf\d (76)_iaip - Copy.jpg,fresh cotton leaf
 fresh cotton leaf\d (8)_iaip.jpg,fresh cotton leaf
 fresh cotton leaf\d (83)_iaip - Copy.jpg,fresh cotton leaf
 fresh cotton leaf\d (95)_iaip - Copy.jpg,fresh cotton leaf
-fresh cotton plant\dsd (140)_iaip.jpg,fresh cotton leaf
+fresh cotton plant\dsd (140)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (153)_iaip.jpg,fresh cotton plant
-fresh cotton plant\dsd (160)_iaip.jpg,fresh cotton plant
-fresh cotton plant\dsd (195)_iaip.jpg,fresh cotton plant
+fresh cotton plant\dsd (160)_iaip.jpg,diseased cotton plant
+fresh cotton plant\dsd (195)_iaip.jpg,diseased cotton plant
 fresh cotton plant\dsd (221)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (223).jpg,fresh cotton plant
 fresh cotton plant\dsd (228).jpg,fresh cotton plant
 fresh cotton plant\dsd (262)_iaip.jpg,diseased cotton plant
-fresh cotton plant\dsd (264)_iaip.jpg,diseased cotton plant
+fresh cotton plant\dsd (264)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (275)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (277)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (279)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (292)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (366)_iaip.jpg,diseased cotton plant
 fresh cotton plant\dsd (382)_iaip.jpg,diseased cotton plant
-fresh cotton plant\dsd (405).jpg,fresh cotton plant
+fresh cotton plant\dsd (405).jpg,diseased cotton plant
 fresh cotton plant\dsd (409)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (420)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (450)_iaip.jpg,fresh cotton plant
-fresh cotton plant\dsd (465)_iaip.jpg,diseased cotton plant
+fresh cotton plant\dsd (465)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (507)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (518)_iaip.jpg,fresh cotton plant
 fresh cotton plant\dsd (579)_iaip.jpg,fresh cotton plant
