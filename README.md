@@ -6,6 +6,7 @@
   
 
 ## Design & Testing Report
+[Design_and_Testing_Report.pdf](https://github.com/NathanielSocash/Cotton-Plant-Disease-Detection-/files/11328621/Design_and_Testing_Report.pdf)
 
 
 ** **
